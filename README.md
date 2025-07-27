@@ -46,3 +46,11 @@ You’ll find:
 
 ---
 
+## 💬 Reflections
+
+This role not only allowed me to promote physical activity and sportsmanship but also prepared me for high-responsibility roles in professional environments by sharpening my team-building and organizational skills.
+
+---
+
+📂 *This repository serves as a portfolio piece highlighting my non-technical skills that complement my technical growth as a QA Engineer and Computer Science graduate.*
+
